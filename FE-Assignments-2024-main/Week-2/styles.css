@@ -44,10 +44,9 @@ ul{
 /* ---CUSTOM CLASS NAME SELECTORS--- */
 /* ---created classes for the navigation, personal stats,and the form so I could style all elements within each of the classes--- */
 .navigation-div{
-    text-align: center;
-    color: white; 
+    text-align: center; 
     font-weight: bold;
-}
+    }
 
 .personal-stats{
     color: white;
