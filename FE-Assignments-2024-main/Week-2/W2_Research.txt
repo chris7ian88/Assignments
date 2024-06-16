@@ -1,0 +1,22 @@
+1. What are CSS grid and flexbox? When might you use one over the other?
+
+
+
+(Relationship of Grid Layout to Other Layout Methods - CSS: Cascading Style Sheets | MDN, 2024)
+
+Relationship of grid layout to other layout methods - CSS: Cascading Style Sheets | MDN. (2024, January 2). MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Relationship_of_grid_layout_with_other_layout_methods
+
+2. Explore the use of CSS custom properties (variables) and their benefits in managing reusable styles and theming. Research how CSS variables can improve code maintainability and enable dynamic styling changes.
+
+
+
+3. Investigate the role of CSS in ensuring sufficient contrast and color accessibility for users with visual impairments. Research techniques for implementing accessible color schemes.
+
+
+
+4. Investigate the usage and benefits of CSS selectors. Research the different types of selectors, such as element selectors, class selectors, ID selectors, and pseudo-classes. Explore how selectors allow you to target specific elements or groups of elements for styling. Provide examples of common use cases for each type of selector and best practices for writing efficient and maintainable CSS selectors.
+
+
+
+
+5.Explore the CSS box model and its significance in determining the layout and spacing of elements on a webpage. Research the components of the box model, including content, padding, border, and margin.

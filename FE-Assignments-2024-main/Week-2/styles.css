@@ -1,0 +1,71 @@
+/* ---added a background image across all pages. made the size cover so it would cover the whole page and set the repeat to "no repeat" so it was 1 image--- */
+body{
+    background-image: url(Images/Basketball_Background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+/* ---ELEMENT SELECTORS--- */
+/* ---Edited elements that appear on all 3 pages so that they would be consistent across all of pages--- */
+h1{
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    font-size: 100px;
+    margin: 5px;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+h3{
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+img{
+    display: block;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 5px;
+}
+
+ul{
+    color: white;
+}
+
+/* ---CUSTOM CLASS NAME SELECTORS--- */
+/* ---created classes for the navigation, personal stats,and the form so I could style all elements within each of the classes--- */
+.navigation-div{
+    text-align: center;
+    color: white; 
+    font-weight: bold;
+}
+
+.personal-stats{
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+}
+
+.form{
+    color: white;
+}
+
+/* ---created this ID because it was unique to table and if I add other tables, they may not be styled the same way--- */
+#ps-header{
+    text-decoration: underline;
+    font-weight: BOLD;
+    text-align: center;
+}
+
+
